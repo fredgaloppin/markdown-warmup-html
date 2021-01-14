@@ -1,0 +1,21 @@
+
+body{
+	text-align: center;
+	width: 960px;
+	margin: auto;
+	background-color: gold;
+}
+main{
+	text-align: left;
+}
+ul{
+	list-style: none;
+}
+td{
+	margin: 2px 5px 2px 5px;
+}
+/* tr{
+} */
+table{
+	border-style: ridge;
+}
